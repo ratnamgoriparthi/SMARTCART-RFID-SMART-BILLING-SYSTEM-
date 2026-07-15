@@ -71,7 +71,9 @@ o	Total Bill
 9.	If the same tag is scanned again, the product is removed from the cart. 
 10.	Final bill is displayed during checkout.
     
-    <img width="773" height="1493" alt="image" src="https://github.com/user-attachments/assets/dcda4002-8157-4daf-902f-01dda9cbe637" />
+    <img width="731" height="1565" alt="image" src="https://github.com/user-attachments/assets/b03cb43e-d4a6-4f9e-a649-e9adbd07b62c" />
+
+
  
 
 ➕ Product Addition
