@@ -21,12 +21,13 @@ The system performs the following operations:
 
 The EM4095 RFID reader reads the unique RFID tag of each product, while the LPC2148 retrieves the corresponding product name and price from the database. The total bill is updated instantly and displayed on the LCD, providing a fast, accurate, and queue-free shopping experience.
 ________________________________________
-
 📷 Complete System Architecture
-           <img width="833" height="708" alt="image" src="https://github.com/user-attachments/assets/75c87890-2ac9-4f55-8c12-1863dec6628c" />
+<img width="979" height="769" alt="image" src="https://github.com/user-attachments/assets/35066381-cd3c-48ec-ac43-381d847d4e9d" />
 
-___________________________________
+ 
+_______________________________________________________________
 🎯 Project Objectives
+
 
 •	Eliminate long billing queues 
 
